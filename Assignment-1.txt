@@ -1,0 +1,32 @@
+Assignment 1 
+Simple SQL Query with a single table with where clause
+
+DataBase Setup and Records of Products Table
+ 
+
+ 
+
+
+--Display Table--
+select * from Products;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
